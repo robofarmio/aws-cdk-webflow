@@ -1,6 +1,6 @@
 {
   "name": "aws-cdk-webflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AWS CDK constructs to set up a Webflow website for a domain hosted on AWS",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
